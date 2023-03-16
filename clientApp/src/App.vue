@@ -9,5 +9,6 @@
 <style lang="scss" scoped>
 html {
   font-size: 62.5%;
+  font-family: 'Nunito';
 }
 </style>
