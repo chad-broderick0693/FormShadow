@@ -1,11 +1,11 @@
 <template>
-  <section class="header">Form Shadow</section>
+  <section class="footer">Powered by WuRM</section>
 </template>
 
 <style lang="scss" scoped>
 @import '@/assets/main.scss';
 
-.header {
+.footer {
   display: flex;
   align-items: center;
   justify-content: center;

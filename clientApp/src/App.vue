@@ -15,6 +15,14 @@ html {
 
   body {
     background-color: $color-background;
+
+    section {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      min-height: 100vh;
+    }
   }
 }
 </style>
