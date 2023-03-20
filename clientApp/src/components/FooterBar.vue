@@ -2,7 +2,7 @@
   <section class="footer">Powered by WuRM</section>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 @import '@/assets/main.scss';
 
 .footer {
